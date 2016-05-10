@@ -34,7 +34,7 @@
 
 REMOTE=""
 BRANCH=""
-SLEEP_TIME=2
+SLEEP_TIME=10
 DATE_FMT="+%Y-%m-%d %H:%M:%S"
 COMMITMSG="Scripted auto-commit on change (%d) by gitwatch.sh"
 
